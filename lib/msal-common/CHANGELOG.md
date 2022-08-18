@@ -1,8 +1,16 @@
 # Change Log - @azure/msal-common
 
-This log was last generated on Mon, 01 Aug 2022 22:22:35 GMT and should not be manually modified.
+This log was last generated on Thu, 18 Aug 2022 20:41:14 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 7.4.0
+
+Thu, 18 Aug 2022 20:41:14 GMT
+
+### Minor changes
+
+- Exposed raw id token on account info objects #5036 (rginsburg@microsoft.com)
 
 ## 7.3.0
 

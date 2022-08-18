@@ -2,6 +2,21 @@
   "name": "@azure/msal-common",
   "entries": [
     {
+      "date": "Thu, 18 Aug 2022 20:41:14 GMT",
+      "tag": "@azure/msal-common_v7.4.0",
+      "version": "7.4.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "rginsburg@microsoft.com",
+            "package": "@azure/msal-common",
+            "commit": "82098dcb119883c52b956ae3eb408a80d0bcfe42",
+            "comment": "Exposed raw id token on account info objects #5036"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 01 Aug 2022 22:22:35 GMT",
       "tag": "@azure/msal-common_v7.3.0",
       "version": "7.3.0",
